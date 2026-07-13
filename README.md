@@ -1,28 +1,44 @@
 <div align="center">
 
-# Hi 👋, I'm Uday Patil
+# 👋 Hi, I'm Uday Patil
 
-### Cybersecurity Enthusiast • Java Developer • DSA • Full Stack Developer • CTF Challenge Developer
+### 🚀 Java Developer • Cybersecurity Enthusiast • Full Stack Developer • CTF Challenge Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Final+Year+Computer+Engineering+Student;Java+%7C+Data+Structures+%26+Algorithms;Cybersecurity+Researcher;Full+Stack+Developer;CTF+Challenge+Developer;Always+Building+Something+New..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Final+Year+Computer+Engineering+Student;Java+Developer+%7C+DSA+Enthusiast;Cybersecurity+Researcher;Full+Stack+Developer;CTF+Challenge+Developer;Always+Learning+Something+New..." />
 
-<p>
+<br>
 
 <a href="https://github.com/ri5ing">
-<img src="https://img.shields.io/github/followers/ri5ing?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ri5ing?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
 <a href="https://github.com/ri5ing">
-<img src="https://komarev.com/ghpvc/?username=ri5ing&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ri5ing&style=for-the-badge&color=blue"/>
 </a>
 
 <a href="https://linkedin.com/in/ri5ing">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
-
 </div>
+
+---
+
+# 💫 About Me
+
+🎓 Final Year B.E. Computer Engineering (IoT & Cybersecurity)
+
+☕ Strong Java Developer with extensive Data Structures & Algorithms practice.
+
+🔐 Passionate about Cybersecurity, Reverse Engineering, Binary Exploitation, Web Security and Full Stack Development.
+
+🏆 Winner of **INCUVERSE 1.0 RIIDL Hackathon**
+
+🛡️ Two-Time CTF Challenge Developer
+
+👨‍💻 Technical Head @ CSESA
+
+⚡ I enjoy building secure applications, solving CTFs and creating cybersecurity challenges.
 
 ---
 
@@ -30,11 +46,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ri5ing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ri5ing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=ri5ing&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ri5ing&theme=tokyonight&hide_border=true"/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri5ing&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri5ing&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -50,27 +70,17 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ri5ing/ri5ing/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ri5ing&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ri5ing&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 
 </div>
 
 ---
 
-# 📈 Profile Summary
+# 📊 Profile Summary
 
 <div align="center">
 
@@ -80,58 +90,35 @@
 
 ---
 
-# 🚀 About Me
-
-🎓 Final Year B.E. Computer Science Engineering (IoT & Cybersecurity including Blockchain Technology)
-
-💻 Strong proficiency in **Java** with extensive experience solving **Data Structures & Algorithms (DSA)** problems.
-
-🔐 Passionate about
-
-- Cybersecurity
-- Capture The Flag (CTF)
-- Reverse Engineering
-- Binary Exploitation
-- Web Exploitation
-- Full Stack Development
-- Artificial Intelligence
-- Networking
-
-🏆 Winner of **INCUVERSE 1.0 RIIDL Hackathon**
-
-👨‍💻 Technical Head @ CSESA
-
-⚡ I enjoy building secure applications, creating CTF challenges, and exploring modern technologies.
-
----
-
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
 
 </p>
 
-### Full Stack
+## Frontend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,firebase"/>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 
 </p>
 
-### Cloud & Tools
+## Backend
 
-<p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+
+</p>
+
+## Tools & Cloud
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,aws,gcp,postman,vscode"/>
 
@@ -141,16 +128,16 @@
 
 # 🔐 Cybersecurity
 
-- Capture The Flag (CTF)
-- Binary Exploitation
-- Reverse Engineering
-- Web Exploitation
-- OSINT
-- Networking
-- Vulnerability Assessment
-- Wireshark
-- Nmap
-- Metasploit Framework
+- 🛡️ Capture The Flag (CTF)
+- 🔍 Reverse Engineering
+- 💣 Binary Exploitation
+- 🌐 Web Exploitation
+- 🕵️ OSINT
+- 📡 Networking
+- 🔥 Metasploit
+- 📶 Wireshark
+- 🌍 Nmap
+- 🧪 Vulnerability Assessment
 
 ---
 
@@ -160,19 +147,24 @@
 
 **PODS Technology × Lokmanya Tilak College of Engineering**
 
-- Developed CTF challenges in Web, Reverse Engineering, Binary Exploitation, OSINT and App Development.
-- Designed practical attack scenarios for cybersecurity learning.
-- Built engaging hands-on security challenges for students.
+- Designed CTF challenges in Web Security
+- Reverse Engineering
+- Binary Exploitation
+- OSINT
+- Android Security
+- Built hands-on cybersecurity labs
 
 ---
 
-## 📊 AI, ML & Data Science Intern
+## 📊 AI • ML • Data Science Intern
 
 **YBI Foundation × Skill4India**
 
-- Data preprocessing and visualization.
-- Machine Learning with Python.
-- TensorFlow and Keras.
+- Machine Learning
+- TensorFlow
+- Python
+- Data Visualization
+- Data Analysis
 
 ---
 
@@ -180,32 +172,33 @@
 
 **Computer Science Engineering Student Association (CSESA)**
 
-- Organizing hackathons and technical events.
-- Conducting cybersecurity workshops.
-- Previously served as Treasurer.
+- Organized Hackathons
+- Conducted Workshops
+- Managed Technical Events
+- Former Treasurer
 
 ---
 
-# 🏆 Achievements
+# 🏅 Achievements
 
-🥇 Winner — INCUVERSE 1.0 RIIDL Hackathon
+🏆 Winner — INCUVERSE 1.0 RIIDL Hackathon
+
+🛡️ Two-Time CTF Challenge Developer
 
 🎤 Cybersecurity Seminar Speaker
 
-🛡️ Two-time CTF Challenge Developer
-
-🏅 AI, ML & Data Science Certified
+📜 AI • ML • Data Science Certified
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Currently Learning
 
-- 🔐 Offensive Security
-- ☕ Advanced Java & DSA
+- ☕ Advanced Java
+- 📚 Data Structures & Algorithms
 - 🌐 MERN Stack
+- 🔐 Offensive Security
 - 🤖 AI Automation
-- ☁️ Cloud Technologies
-- 🏆 CTF Competitions
+- ☁️ Cloud Computing
 
 ---
 
@@ -214,21 +207,15 @@
 <div align="center">
 
 <a href="https://github.com/ri5ing">
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 </a>
 
 <a href="https://linkedin.com/in/ri5ing">
-
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
 <a href="mailto:uday.patil.st@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
 
 </div>
@@ -237,8 +224,8 @@
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"Code. Learn. Secure. Repeat."*
+*"Code • Learn • Build • Secure • Repeat"*
 
 </div>
