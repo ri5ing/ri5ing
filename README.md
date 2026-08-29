@@ -1,231 +1,231 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=root%40ri5ing%3A~%24+whoami;Uday+Patil+%E2%80%94+Java+%2F+Cybersecurity+%2F+Full+Stack;root%40ri5ing%3A~%24+cat+status.txt;Two-Time+CTF+Challenge+Developer;Winner+-+INCUVERSE+1.0+Hackathon;root%40ri5ing%3A~%24+_" />
+# 👋 Hi, I'm Uday Patil
 
-<br><br>
+### 🚀 Java Developer • Cybersecurity Enthusiast • Full Stack Developer • CTF Challenge Developer
 
-[![Typing SVG](https://img.shields.io/badge/-guest%40ri5ing:~%24-000000?style=for-the-badge&logo=gnometerminal&logoColor=00FF41)](https://ri5ing.is-a.dev)
-[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ri5ing)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/ri5ing)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://ri5ing.is-a.dev)
-[![Email](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:uday.patil.st@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Final+Year+Computer+Engineering+Student;Java+Developer+%7C+DSA+Enthusiast;Cybersecurity+Researcher;Full+Stack+Developer;CTF+Challenge+Developer;Always+Learning+Something+New..." />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ri5ing&style=for-the-badge&color=00FF41&label=CONNECTIONS)
-![Followers](https://img.shields.io/github/followers/ri5ing?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=black)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge)
+<br>
+
+<a href="https://github.com/ri5ing">
+<img src="https://img.shields.io/github/followers/ri5ing?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/ri5ing">
+<img src="https://komarev.com/ghpvc/?username=ri5ing&style=for-the-badge&color=blue"/>
+</a>
+
+<a href="https://linkedin.com/in/ri5ing">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
-<br>
+---
 
-```bash
-guest@ri5ing:~$ cat about.md
-```
+# 💫 About Me
 
-```yaml
-name:          Uday Patil
-alias:         ri5ing
-role:          Java Developer | Cybersecurity Enthusiast | Full Stack Developer
-education:     B.E. Computer Engineering, Final Year (IoT & Cybersecurity)
-college:       Lokmanya Tilak College of Engineering, Navi Mumbai
-achievement:   Winner, INCUVERSE 1.0 RIIDL Hackathon (₹50,000)
-title:         Two-Time CTF Challenge Developer — CHAKRAYUHA CTF
-position:      Technical Head @ CSESA
-motto:         "Break it to understand it. Build it to fix it."
-```
+🎓 Final Year B.E. Computer Engineering (IoT & Cybersecurity)
 
-<br>
+☕ Strong Java Developer with extensive Data Structures & Algorithms practice.
 
-```bash
-guest@ri5ing:~$ ./run_stats.sh
-```
+🔐 Passionate about Cybersecurity, Reverse Engineering, Binary Exploitation, Web Security and Full Stack Development.
+
+🏆 Winner of **INCUVERSE 1.0 RIIDL Hackathon**
+
+🛡️ Two-Time CTF Challenge Developer
+
+👨‍💻 Technical Head @ CSESA
+
+⚡ I enjoy building secure applications, solving CTFs and creating cybersecurity challenges.
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ri5ing&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ri5ing&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=6b6b6b"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ri5ing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri5ing&layout=compact&langs_count=8&hide_border=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ri5ing&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
-```bash
-guest@ri5ing:~$ git log --graph --all
-```
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ri5ing&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=001a08"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri5ing&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
-```bash
-guest@ri5ing:~$ ls trophies/
-```
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ri5ing&theme=matrix&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ri5ing&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
-```bash
-guest@ri5ing:~$ ls -la projects/
-```
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-```
-drwxr-xr-x  drop-drophub/
-```
-**Drop & DropHUB**
-Decentralized version control + social coding platform. Custom Node.js CLI (`drop init`, `drop push`) with a React dashboard syncing to AWS S3.
-
-`React.js` `Node.js` `Express.js` `MongoDB` `AWS S3`
-
-[![Repo](https://img.shields.io/badge/OPEN-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/ri5ing)
-
-</td>
-<td width="33%" valign="top">
-
-```
-drwxr-xr-x  overload/
-```
-**Overload**
-Layered DoS testing tool — HTTP flood, Slowloris, SYN-flood, ARP-spoof, disconnect tests. Built for network security learning.
-
-`Python`
-
-[![Repo](https://img.shields.io/badge/OPEN-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/ri5ing)
-
-</td>
-<td width="33%" valign="top">
-
-```
-drwxr-xr-x  dropx/
-```
-**DropX**
-Secure, login-free P2P file-sharing (>5GB transfers) with end-to-end encryption over WebRTC, fully browser-native.
-
-`HTML` `CSS` `JS` `WebRTC`
-
-[![Repo](https://img.shields.io/badge/OPEN-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/ri5ing)
-
-</td>
-</tr>
-</table>
-
-> Swap the `OPEN` badge links above for your real repo URLs — currently pointing to your profile.
-
-<br>
-
-```bash
-guest@ri5ing:~$ ./stack --list
-```
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,react,nodejs,express,mongodb,firebase,git,github,linux,aws,gcp,postman,vscode&theme=dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ri5ing&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 
 </div>
 
-| MODULE | STACK |
-|---|---|
-| `LANGUAGES` | Java · Python · JavaScript · C · C++ |
-| `FRONTEND` | HTML · CSS · React |
-| `BACKEND` | Node.js · Express · MongoDB · Firebase |
-| `TOOLS/CLOUD` | Git · GitHub · Linux · AWS · GCP · Postman · VS Code |
+---
 
-<br>
-
-```bash
-guest@ri5ing:~$ nmap --scan-domains security/
-```
-
-```diff
-+ Capture The Flag (CTF)              + Networking & Security Fundamentals
-+ Reverse Engineering                 + Metasploit Framework
-+ Binary Exploitation                 + Wireshark
-+ Web Exploitation                    + Nmap
-+ OSINT                               + Vulnerability Assessment
-```
-
-<br>
-
-```bash
-guest@ri5ing:~$ history --experience
-```
-
-```
-[2025-01 -> 2026-03]  CTF CHALLENGE DEVELOPER
-                       PODS Technology x LTCE, CSESA
-                       > Designed Web, Binary, Reverse, OSINT, App Dev
-                         challenges for CHAKRAYUHA CTF
-
-[2026-01 -> 2026-02]  AGENTIC AI INTERN — Jetflix.ai
-                       > Avatar-based video synthesis, voice agents
-                       > Built AI calling agents for automation
-
-[2025-04 -> 2025-05]  AI / ML / DATA SCIENCE INTERN
-                       YBI Foundation x Skill4India
-                       > Data preprocessing, visualization, ML models
-
-[2024-07 -> 2025-04]  TECHNICAL HEAD / TREASURER — CSESA
-                       > Organized hackathons, workshops, tech events
-```
-
-<br>
-
-```bash
-guest@ri5ing:~$ cat achievements.log
-```
-
-```
-[WINNER]  INCUVERSE 1.0 — RIIDL Hackathon, Somaiya Vidyavihar   Oct 2025
-[TALK ]   "System Hacking: Real-World FTP Exploitation" (100+)  Sep 2024
-[CERT ]   AI, ML & Data Science — YBI Foundation x Skill4India  May 2025
-[ROLE ]   Two-Time CTF Challenge Developer
-```
-
-<br>
-
-```bash
-guest@ri5ing:~$ ps -ef | grep learning
-```
-
-```
-> Advanced Java            > Offensive Security
-> DSA                      > AI Automation
-> MERN Stack                > Cloud Computing
-```
-
-<br>
-
-```bash
-guest@ri5ing:~$ ./connect.sh --all
-```
+# 📊 Profile Summary
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ri5ing)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/ri5ing)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://ri5ing.is-a.dev)
-[![Gmail](https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:uday.patil.st@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/PHONE-00FF41?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/919373944637)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ri5ing&theme=tokyonight"/>
 
-<br>
+</div>
 
-```
-> process exited with code 0
-CODE // LEARN // BUILD // SECURE // REPEAT
-```
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+
+</p>
+
+## Tools & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,gcp,postman,vscode"/>
+
+</p>
+
+---
+
+# 🔐 Cybersecurity
+
+- 🛡️ Capture The Flag (CTF)
+- 🔍 Reverse Engineering
+- 💣 Binary Exploitation
+- 🌐 Web Exploitation
+- 🕵️ OSINT
+- 📡 Networking
+- 🔥 Metasploit
+- 📶 Wireshark
+- 🌍 Nmap
+- 🧪 Vulnerability Assessment
+
+---
+
+# 💼 Experience
+
+## 🛡️ CTF Challenge Developer
+
+**PODS Technology × Lokmanya Tilak College of Engineering**
+
+- Designed CTF challenges in Web Security
+- Reverse Engineering
+- Binary Exploitation
+- OSINT
+- Android Security
+- Built hands-on cybersecurity labs
+
+---
+
+## 📊 AI • ML • Data Science Intern
+
+**YBI Foundation × Skill4India**
+
+- Machine Learning
+- TensorFlow
+- Python
+- Data Visualization
+- Data Analysis
+
+---
+
+## 👨‍💻 Technical Head
+
+**Computer Science Engineering Student Association (CSESA)**
+
+- Organized Hackathons
+- Conducted Workshops
+- Managed Technical Events
+- Former Treasurer
+
+---
+
+# 🏅 Achievements
+
+🏆 Winner — INCUVERSE 1.0 RIIDL Hackathon
+
+🛡️ Two-Time CTF Challenge Developer
+
+🎤 Cybersecurity Seminar Speaker
+
+📜 AI • ML • Data Science Certified
+
+---
+
+# 🎯 Currently Learning
+
+- ☕ Advanced Java
+- 📚 Data Structures & Algorithms
+- 🌐 MERN Stack
+- 🔐 Offensive Security
+- 🤖 AI Automation
+- ☁️ Cloud Computing
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ri5ing">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ri5ing">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:uday.patil.st@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Code • Learn • Build • Secure • Repeat"*
 
 </div>
