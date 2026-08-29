@@ -1,231 +1,202 @@
 <div align="center">
 
-# 👋 Hi, I'm Uday Patil
+```
+█░░░█░▀█▀░█▀▀░░░█░█░█░█░█▀▀░░░█▀▀░█░░░
+█░█░█░░█░░█▀▀░░░█░█░█░█░█░░░░░█▀▀░█░░░
+░▀░▀░░▀▀▀░▀▀▀░░░▀▀▀░▀▀▀░▀▀▀░░░▀▀▀░▀▀▀░
+```
 
-### 🚀 Java Developer • Cybersecurity Enthusiast • Full Stack Developer • CTF Challenge Developer
+### JAVA DEVELOPER — CYBERSECURITY — FULL STACK — CTF DEVELOPER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Final+Year+Computer+Engineering+Student;Java+Developer+%7C+DSA+Enthusiast;Cybersecurity+Researcher;Full+Stack+Developer;CTF+Challenge+Developer;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A00&center=true&vCenter=true&width=850&lines=FINAL+YEAR+COMPUTER+ENGINEERING+STUDENT;JAVA+DEVELOPER+%7C+DSA+ENTHUSIAST;CYBERSECURITY+RESEARCHER;FULL+STACK+DEVELOPER;CTF+CHALLENGE+DEVELOPER;ALWAYS+LEARNING+SOMETHING+NEW..." />
 
 <br>
 
-<a href="https://github.com/ri5ing">
-<img src="https://img.shields.io/github/followers/ri5ing?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://github.com/ri5ing">
-<img src="https://komarev.com/ghpvc/?username=ri5ing&style=for-the-badge&color=blue"/>
-</a>
-
-<a href="https://linkedin.com/in/ri5ing">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-ri5ing-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ri5ing)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ri5ing)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ri5ing.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ri5ing.is-a.dev)
+[![Views](https://komarev.com/ghpvc/?username=ri5ing&style=for-the-badge&color=000000&label=PROFILE+VIEWS)](https://github.com/ri5ing)
 
 </div>
 
----
+<br>
 
-# 💫 About Me
+```
+████████████████████████████████████████████████████████████
+  01 // ABOUT
+████████████████████████████████████████████████████████████
+```
 
-🎓 Final Year B.E. Computer Engineering (IoT & Cybersecurity)
+```
+> STATUS       Final Year B.E. Computer Engineering (IoT & Cybersecurity)
+> LANGUAGE     Java — strong DSA practice
+> FOCUS        Cybersecurity, Reverse Engineering, Binary Exploitation, Web Security
+> ACHIEVEMENT  Winner — INCUVERSE 1.0 RIIDL Hackathon
+> ROLE         Two-Time CTF Challenge Developer
+> POSITION     Technical Head @ CSESA
+> MOTTO        Break it to understand it. Build it to fix it.
+```
 
-☕ Strong Java Developer with extensive Data Structures & Algorithms practice.
+<br>
 
-🔐 Passionate about Cybersecurity, Reverse Engineering, Binary Exploitation, Web Security and Full Stack Development.
-
-🏆 Winner of **INCUVERSE 1.0 RIIDL Hackathon**
-
-🛡️ Two-Time CTF Challenge Developer
-
-👨‍💻 Technical Head @ CSESA
-
-⚡ I enjoy building secure applications, solving CTFs and creating cybersecurity challenges.
-
----
-
-# 📊 GitHub Statistics
+```
+████████████████████████████████████████████████████████████
+  02 // STATISTICS
+████████████████████████████████████████████████████████████
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ri5ing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ri5ing&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=B4B2A9&icon_color=F0997B&border_radius=0"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ri5ing&hide_border=true&background=0A0A0A&stroke=FFFFFF&ring=F0997B&fire=F0997B&currStreakLabel=FFFFFF&sideLabels=B4B2A9&dates=666666&border_radius=0"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ri5ing&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri5ing&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=B4B2A9&border_radius=0"/>
 
 </div>
 
+<br>
+
+```
+████████████████████████████████████████████████████████████
+  03 // CONTRIBUTION LOG
+████████████████████████████████████████████████████████████
+```
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri5ing&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ri5ing&hide_border=true&bg_color=0A0A0A&color=F0997B&line=F0997B&point=FFFFFF&area=true&area_color=1a1a1a"/>
 
 </div>
 
----
+<br>
 
-# 📈 Contribution Graph
+```
+████████████████████████████████████████████████████████████
+  04 // TROPHY CASE
+████████████████████████████████████████████████████████████
+```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ri5ing&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ri5ing&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&column=4"/>
 
 </div>
 
----
+<br>
 
-# 🏆 GitHub Trophies
+```
+████████████████████████████████████████████████████████████
+  05 // TECH STACK
+████████████████████████████████████████████████████████████
+```
+
+| MODULE | STACK |
+|---|---|
+| `LANGUAGES` | Java · Python · JavaScript · C · C++ |
+| `FRONTEND` | HTML · CSS · React |
+| `BACKEND` | Node.js · Express · MongoDB · Firebase |
+| `TOOLS/CLOUD` | Git · GitHub · Linux · AWS · GCP · Postman · VS Code |
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ri5ing&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css,react,nodejs,express,mongodb,firebase,git,github,linux,aws,gcp,postman,vscode&theme=dark"/>
 
 </div>
 
----
+<br>
 
-# 📊 Profile Summary
+```
+████████████████████████████████████████████████████████████
+  06 // CYBERSECURITY DOMAINS
+████████████████████████████████████████████████████████████
+```
 
-<div align="center">
+```
+[X] Capture The Flag (CTF)          [X] Networking
+[X] Reverse Engineering             [X] Metasploit
+[X] Binary Exploitation             [X] Wireshark
+[X] Web Exploitation                [X] Nmap
+[X] OSINT                           [X] Vulnerability Assessment
+```
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ri5ing&theme=tokyonight"/>
+<br>
 
-</div>
+```
+████████████████████████████████████████████████████████████
+  07 // EXPERIENCE LOG
+████████████████████████████████████████████████████████████
+```
 
----
+```
+[ CTF CHALLENGE DEVELOPER ]
+PODS Technology x Lokmanya Tilak College of Engineering
+  > Web Security, Reverse Engineering, Binary Exploitation
+  > OSINT, Android Security
+  > Built hands-on cybersecurity labs
 
-# 💻 Tech Stack
+[ AI / ML / DATA SCIENCE INTERN ]
+YBI Foundation x Skill4India
+  > Machine Learning, TensorFlow, Python
+  > Data Visualization, Data Analysis
 
-## Languages
+[ TECHNICAL HEAD ]
+Computer Science Engineering Student Association (CSESA)
+  > Organized hackathons and workshops
+  > Managed technical events
+  > Former Treasurer
+```
 
-<p align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
+```
+████████████████████████████████████████████████████████████
+  08 // ACHIEVEMENTS
+████████████████████████████████████████████████████████████
+```
 
-</p>
+```
+[ WINNER ]     INCUVERSE 1.0 — RIIDL Hackathon
+[ ROLE   ]     Two-Time CTF Challenge Developer
+[ TALK   ]     Cybersecurity Seminar Speaker
+[ CERT   ]     AI, ML & Data Science Certified
+```
 
-## Frontend
+<br>
 
-<p align="center">
+```
+████████████████████████████████████████████████████████████
+  09 // CURRENTLY BUILDING
+████████████████████████████████████████████████████████████
+```
 
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+```
+> Advanced Java
+> Data Structures & Algorithms
+> MERN Stack
+> Offensive Security
+> AI Automation
+> Cloud Computing
+```
 
-</p>
+<br>
 
-## Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-
-</p>
-
-## Tools & Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,gcp,postman,vscode"/>
-
-</p>
-
----
-
-# 🔐 Cybersecurity
-
-- 🛡️ Capture The Flag (CTF)
-- 🔍 Reverse Engineering
-- 💣 Binary Exploitation
-- 🌐 Web Exploitation
-- 🕵️ OSINT
-- 📡 Networking
-- 🔥 Metasploit
-- 📶 Wireshark
-- 🌍 Nmap
-- 🧪 Vulnerability Assessment
-
----
-
-# 💼 Experience
-
-## 🛡️ CTF Challenge Developer
-
-**PODS Technology × Lokmanya Tilak College of Engineering**
-
-- Designed CTF challenges in Web Security
-- Reverse Engineering
-- Binary Exploitation
-- OSINT
-- Android Security
-- Built hands-on cybersecurity labs
-
----
-
-## 📊 AI • ML • Data Science Intern
-
-**YBI Foundation × Skill4India**
-
-- Machine Learning
-- TensorFlow
-- Python
-- Data Visualization
-- Data Analysis
-
----
-
-## 👨‍💻 Technical Head
-
-**Computer Science Engineering Student Association (CSESA)**
-
-- Organized Hackathons
-- Conducted Workshops
-- Managed Technical Events
-- Former Treasurer
-
----
-
-# 🏅 Achievements
-
-🏆 Winner — INCUVERSE 1.0 RIIDL Hackathon
-
-🛡️ Two-Time CTF Challenge Developer
-
-🎤 Cybersecurity Seminar Speaker
-
-📜 AI • ML • Data Science Certified
-
----
-
-# 🎯 Currently Learning
-
-- ☕ Advanced Java
-- 📚 Data Structures & Algorithms
-- 🌐 MERN Stack
-- 🔐 Offensive Security
-- 🤖 AI Automation
-- ☁️ Cloud Computing
-
----
-
-# 📫 Connect With Me
+```
+████████████████████████████████████████████████████████████
+  10 // CONNECT
+████████████████████████████████████████████████████████████
+```
 
 <div align="center">
 
-<a href="https://github.com/ri5ing">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ri5ing)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ri5ing)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ri5ing.is-a.dev)
+[![Gmail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uday.patil.st@gmail.com)
 
-<a href="https://linkedin.com/in/ri5ing">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<br>
 
-<a href="mailto:uday.patil.st@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-*"Code • Learn • Build • Secure • Repeat"*
+```
+CODE // LEARN // BUILD // SECURE // REPEAT
+```
 
 </div>
